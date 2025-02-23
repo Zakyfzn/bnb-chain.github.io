@@ -1,4 +1,4 @@
-name: BENTOL
+name: [ "main" ]
 
 on:
   push:
